@@ -1,2 +1,5 @@
 .git-deps
 .tmp
+.build
+package/VLCKit.xcframework.tar.gz
+package/.DS_Store
